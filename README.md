@@ -78,12 +78,12 @@
 
 </details>
 
-<!--<details>
+<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="ujjwalfx2's GitHub Stats" src="https://github-readme-stats.ujjwalfx2.vercel.app/api?username=ujjwalfx2&show_icons=true&hide_border=true" />
 
-</details>-->
+</details>
 
 [website]: https://ujjwalfx2.github.io/Ujjal-Roy/
 [course]: https://ujjwal-roy.shinyapps.io/Simpleapp1/
