@@ -70,21 +70,20 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 [Built Own Website ](https://github.com/ujjwalfx2/Ujjal-Roy)[in github]
-2. ❗️ [Developed code for WebCounter ](https://github.com/ujjwalfx2/r-Counter)[in rShiny]
-3. ❌ [Modify Profile Page of github ](https://github.com/ujjwalfx2/ujjwalfx2/blob/main/README.md)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. [<img width="26" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png"/> Built Own Website ](https://github.com/ujjwalfx2/Ujjal-Roy)[in github]
+2. [</> Developed code for WebCounter ](https://github.com/ujjwalfx2/r-Counter)[in rShiny]
+3.  [<img width="26" src="https://www.pngfind.com/pngs/m/292-2924933_image-result-for-png-file-user-icon-black.png" /> Modify Profile Page of github ](https://github.com/ujjwalfx2/ujjwalfx2/blob/main/README.md)
+
 <!--END_SECTION:activity-->
 
 </details>
 
-<details>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details>-->
 
 [website]: https://ujjwalfx2.github.io/Ujjal-Roy/
 [course]: https://ujjwal-roy.shinyapps.io/Simpleapp1/
