@@ -5,13 +5,14 @@
 [![youtube](https://img.shields.io/youtube/channel/subscribers/UCy1Wu_AHVFS5uBV6qSW580A?label=YouTube%20Channel&style=for-the-badge)](https://youtube.com/c/ujjwalfx)
 [![youtube](https://img.shields.io/youtube/channel/views/UCy1Wu_AHVFS5uBV6qSW580A?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/c/ujjwalfx)
 
-## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+## I'm a Husband, Father, and Data Analyst!!
+
+- 🔭 I just launched my first rShyni app with Google Sheet : [rShiny-App!][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Visualize data in rShyni and PowerBI
+- ⚡ Fun fact: I love to play PUBG
 
 ### Connect with me:
 
@@ -25,7 +26,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://icon2.cleanpng.com/20180712/urx/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b0968102c5.8067455915314249185284.jpg" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -96,7 +97,7 @@
 </details>
 
 [website]: https://ujjwalfx2.github.io/Ujjal-Roy/
-<!--[course]: http://vsCodeHero.com -->
+[course]: https://ujjwal-roy.shinyapps.io/Simpleapp1/
 [twitter]: https://twitter.com/ujjwalfx
 [youtube]: https://youtube.com/c/ujjwalfx
 [instagram]: https://www.instagram.com/ujjwalfx
