@@ -81,8 +81,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ujjwalfx2's GitHub Stats" src="https://github-readme-stats.ujjwalfx2.vercel.app/api?username=ujjwalfx2&show_icons=true&hide_border=true" />
-
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalfx2)](https://github.com/ujjwalfx2/github-readme-stats)
 </details>
 
 [website]: https://ujjwalfx2.github.io/Ujjal-Roy/
