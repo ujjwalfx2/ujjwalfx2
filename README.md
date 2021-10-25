@@ -1,7 +1,7 @@
 ### Hi there, I'm Ujjwal [website] 👋
 
 [![Website](https://img.shields.io/website?label=Ujjwal.Roy&style=for-the-badge&url=https://ujjwalfx2.github.io/Ujjal-Roy)](https://ujjwalfx2.github.io/Ujjal-Roy/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ujjwalfx?label=Twitter%20Follow%20%40Ujjwalfx&style=for-the-badge)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/ujjwalfx?label=Twitter%20Follow%20%40Ujjwalfx&style=for-the-badge)](https://twitter.com/ujjwalfx)
 [![youtube](https://img.shields.io/youtube/channel/subscribers/UCy1Wu_AHVFS5uBV6qSW580A?label=YouTube%20Channel&style=for-the-badge)](https://youtube.com/c/ujjwalfx)
 [![youtube](https://img.shields.io/youtube/channel/views/UCy1Wu_AHVFS5uBV6qSW580A?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/c/ujjwalfx)
 
