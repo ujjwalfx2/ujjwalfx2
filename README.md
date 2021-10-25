@@ -1,4 +1,5 @@
 ### Hi there, I'm Ujjwal - aka ujjwalfx [website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br />
 
 [![Website](https://img.shields.io/website?label=Ujjwal.Roy&style=for-the-badge&url=https://ujjwalfx2.github.io/Ujjal-Roy)](https://ujjwalfx2.github.io/Ujjal-Roy/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ujjwalfx?label=Twitter%20Follow%20%40Ujjwalfx&style=for-the-badge)](https://twitter.com/ujjwalfx)
@@ -75,15 +76,21 @@
 
 <!--END_SECTION:activity-->
 
-<br>
+<br />
 <!--<details>
   <summary>:zap: GitHub Stats</summary>
 -->
   
   [![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalfx2)](https://github.com/ujjwalfx2/github-readme-stats)
-  <br>
-  <br>
+  <br />
+  <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalfx2)](https://github.com/ujjwalfx2/github-readme-stats)
+  
+ <br/>
+
+<a href="https://github.com/ujjwalfx2/github-readme-activity-graph"><img alt="Ujjwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ujjwalfx2&bg_color=04449A&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 
 <!--/details>-->
 
