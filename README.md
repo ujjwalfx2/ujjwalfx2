@@ -1,4 +1,4 @@
-### Hi there, I'm Ujjwal aka ujjwalfx [website] 👋
+### Hi there, I'm Ujjwal - aka ujjwalfx [website] 👋
 
 [![Website](https://img.shields.io/website?label=Ujjwal.Roy&style=for-the-badge&url=https://ujjwalfx2.github.io/Ujjal-Roy)](https://ujjwalfx2.github.io/Ujjal-Roy/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ujjwalfx?label=Twitter%20Follow%20%40Ujjwalfx&style=for-the-badge)](https://twitter.com/ujjwalfx)
