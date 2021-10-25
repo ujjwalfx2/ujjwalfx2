@@ -1,4 +1,4 @@
-### Hi there, I'm Ujjwal [website] 👋
+### Hi there, I'm Ujjwal aka ujjwalfx [website] 👋
 
 [![Website](https://img.shields.io/website?label=Ujjwal.Roy&style=for-the-badge&url=https://ujjwalfx2.github.io/Ujjal-Roy)](https://ujjwalfx2.github.io/Ujjal-Roy/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ujjwalfx?label=Twitter%20Follow%20%40Ujjwalfx&style=for-the-badge)](https://twitter.com/ujjwalfx)
@@ -8,7 +8,7 @@
 
 ## I'm a Husband, Father, and Data Analyst!!
 
-- 🔭 I just launched my first rShyni app with Google Sheet : [rShiny-App!][course]
+- 🔭 I just launched my first rShiny app with Google Sheet : [rShiny-App!][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Visualize data in rShyni and PowerBI
@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://github.com/ujjwalfx2/Ujjal-Roy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ujjwlfx | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ujjwalfx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ujjwalfx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ujjwalfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,28 +43,26 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [vscode.dev - VS Code In The Browser!!](https://www.youtube.com/watch?v=-5TFQjzEK-8)
-- [STACKr News Weekly: Quit Everything & Start Over 🔃, Stop Procrastinating 🛑, Learn Svelte 🏫](https://www.youtube.com/watch?v=kDdvT8coKwc)
-- [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
+- [Reading Google Sheet & create a simple rShiny application Finally Revealed!!](https://www.youtube.com/watch?v=vK5ZTRJ63jk)
+- [How to publish/deploy google sheet in csv or xlsx format to read in rShiny ](https://www.youtube.com/watch?v=F_WAlHbEyK0&t=0s)
+
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/c/ujjwalfx)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Convert ur RAM into a Graphic card](https://ujjwalfx.blogspot.com/2010/05/)
+- [Fix Folder Options missing in Windows Explorer](https://ujjwalfx.blogspot.com/2011/)
+- [Gtalk trick-How to open Multiple gtalk windows?](https://ujjwalfx.blogspot.com/2010/03/how-to-open-blocked-orkut.html)
+- [How to Block A Website in All Web Browsers](https://ujjwalfx.blogspot.com/2010/03/how-to-block-website-in-all-web.html)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://www.blogger.com/profile/16044046982247532099)
 
 ---
 
@@ -72,9 +70,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. 🗣 [Built Own Website ](https://github.com/ujjwalfx2/Ujjal-Roy)[in github]
+2. ❗️ [Developed code for WebCounter ](https://github.com/ujjwalfx2/r-Counter)[in rShiny]
+3. ❌ [Modify Profile Page of github ](https://github.com/ujjwalfx2/ujjwalfx2/blob/main/README.md)
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
