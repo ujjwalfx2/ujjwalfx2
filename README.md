@@ -82,7 +82,9 @@
   <summary>:zap: GitHub Stats</summary>
 
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalfx2)](https://github.com/ujjwalfx2/github-readme-stats)
+  [![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalfx2)](https://github.com/ujjwalfx2/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalfx2)](https://github.com/ujjwalfx2/github-readme-stats)
+
 </details>
 
 [website]: https://ujjwalfx2.github.io/Ujjal-Roy/
