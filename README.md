@@ -1,7 +1,9 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Ujjwal [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=Ujjwal.Roy&style=for-the-badge&url=https://ujjwalfx2.github.io/Ujjal-Roy)](https://ujjwalfx2.github.io/Ujjal-Roy/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ujjwalfx?label=Twitter%20Follow%20%40Ujjwalfx&style=for-the-badge)]()
+[![youtube](https://img.shields.io/youtube/channel/subscribers/UCy1Wu_AHVFS5uBV6qSW580A?label=YouTube%20Channel&style=for-the-badge)](https://youtube.com/c/ujjwalfx)
+[![youtube](https://img.shields.io/youtube/channel/views/UCy1Wu_AHVFS5uBV6qSW580A?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/c/ujjwalfx)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -93,13 +95,13 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[website]: https://ujjwalfx2.github.io/Ujjal-Roy/
+<!--[course]: http://vsCodeHero.com -->
+[twitter]: https://twitter.com/ujjwalfx
+[youtube]: https://youtube.com/c/ujjwalfx
+[instagram]: https://www.instagram.com/ujjwalfx
+[linkedin]: https://in.linkedin.com/in/ujjwalroy
+[webdevplaylist]: https://www.youtube.com/watch?v=UQy3NUPZ2YI&list=FLy1Wu_AHVFS5uBV6qSW580A
+<!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
