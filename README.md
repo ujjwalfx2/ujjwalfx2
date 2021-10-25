@@ -66,26 +66,26 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. [<img width="26" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png"/> Built Own Website ](https://github.com/ujjwalfx2/Ujjal-Roy)[in github]
-2. [</> Developed code for WebCounter ](https://github.com/ujjwalfx2/r-Counter)[in rShiny]
-3.  [<img width="26" src="https://www.pngfind.com/pngs/m/292-2924933_image-result-for-png-file-user-icon-black.png" /> Modify Profile Page of github ](https://github.com/ujjwalfx2/ujjwalfx2/blob/main/README.md)
+1. [Built Own Website ](https://github.com/ujjwalfx2/Ujjal-Roy)[in github]
+2. [Developed code for WebCounter ](https://github.com/ujjwalfx2/r-Counter)[in rShiny]
+3. [Modify Profile Page of github ](https://github.com/ujjwalfx2/ujjwalfx2/blob/main/README.md)
 
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
+<br>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
-
+-->
   
   [![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalfx2)](https://github.com/ujjwalfx2/github-readme-stats)
+  <br>
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalfx2)](https://github.com/ujjwalfx2/github-readme-stats)
 
-</details>
+<!--/details>-->
 
 [website]: https://ujjwalfx2.github.io/Ujjal-Roy/
 [course]: https://ujjwal-roy.shinyapps.io/Simpleapp1/
