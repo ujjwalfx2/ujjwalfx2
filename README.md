@@ -7,7 +7,7 @@
 [![youtube](https://img.shields.io/youtube/channel/views/UCy1Wu_AHVFS5uBV6qSW580A?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/c/ujjwalfx)
 
 
-## I'm a Husband, Father, and a Data Analyst!!
+## I'm a Data Analyst & an autodidacts !!
 
 - 🔭 I just launched my first rShiny app with Google Sheet : [rShiny-App!][course]
 - 🌱 I’m currently learning everything 🤣
@@ -27,13 +27,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://icon2.cleanpng.com/20180712/urx/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b0968102c5.8067455915314249185284.jpg" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://www.pngkey.com/png/full/139-1398300_r-shiny-logo.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://www.logolynx.com/images/logolynx/f7/f736ca73ea88f032ab891424e300efb2.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://five.epicollect.net/images/ec5-community.jpg" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://icon2.cleanpng.com/20180712/urx/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b0968102c5.8067455915314249185284.jpg" />][webdevplaylist1]
+[<img align="left" alt="HTML5" width="26px" src="https://www.pngkey.com/png/full/139-1398300_r-shiny-logo.png" />][webdevplaylist1]
+[<img align="left" alt="CSS3" width="26px" src="https://www.logolynx.com/images/logolynx/f7/f736ca73ea88f032ab891424e300efb2.png" />][cssplaylist1]
+[<img align="left" alt="Sass" width="26px" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" />][cssplaylist1]
+[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" />][jsplaylist1]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][reactplaylist1]
+[<img align="left" alt="Gatsby" width="26px" src="https://five.epicollect.net/images/ec5-community.jpg" />][webdevplaylist1]
 
 
 <br />
