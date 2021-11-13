@@ -28,11 +28,11 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://icon2.cleanpng.com/20180712/urx/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b0968102c5.8067455915314249185284.jpg" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://www.pngkey.com/png/full/139-1398300_r-shiny-logo.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://www.pngkey.com/png/full/139-1398300_r-shiny-logo.png" />][rshinyapp]
 [<img align="left" alt="CSS3" width="26px" src="https://www.logolynx.com/images/logolynx/f7/f736ca73ea88f032ab891424e300efb2.png" />][webdevplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" />][webdevplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist1]
 [<img align="left" alt="Gatsby" width="26px" src="https://five.epicollect.net/images/ec5-community.jpg" />][webdevplaylist]
 
 
@@ -101,6 +101,8 @@
 [instagram]: https://www.instagram.com/ujjwalfx
 [linkedin]: https://in.linkedin.com/in/ujjwalroy
 [webdevplaylist]: https://www.youtube.com/watch?v=UQy3NUPZ2YI&list=FLy1Wu_AHVFS5uBV6qSW580A
+[webdevplaylist1]: https://github.com/ujjwalfx2
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[rshinyapp]: https://www.youtube.com/watch?v=vK5ZTRJ63jk&list=FLy1Wu_AHVFS5uBV6qSW580A
