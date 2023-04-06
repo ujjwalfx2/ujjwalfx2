@@ -7,9 +7,17 @@
 [![youtube](https://img.shields.io/youtube/channel/views/UCy1Wu_AHVFS5uBV6qSW580A?label=YouTube%20Views&style=for-the-badge)](https://www.youtube.com/ujjwalfx?sub_confirmation=1)
 
 
+
+
+<img align="right" src="https://github.com/ujjwalfx2/github-stats-transparent/blob/7fbe7a44d0c6f45c563273747735e5789bb548eb/templates/overview.svg"  width="400">
+
+
+
+
+
 ## I'm a Data Analyst & an autodidacts !!
 
-- 🔭 I just launched my first rShiny app with Google Sheet : [rShiny-App!][course]
+- 🔭 I just launched my first rShiny app with Google Sheet : [rShiny-App!][course]   
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Visualize data in rShyni and PowerBI
