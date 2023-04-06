@@ -49,7 +49,7 @@
 
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/c/ujjwalfx)
+➡️ [more videos...](https://youtube.com/ujjwalfx?sub_confirmation=1)
 
 ---
 
@@ -97,7 +97,7 @@
 [website]: https://ujjwalfx2.github.io/Ujjal-Roy/
 [course]: https://ujjwal-roy.shinyapps.io/Simpleapp1/
 [twitter]: https://twitter.com/ujjwalfx
-[youtube]: https://youtube.com/c/ujjwalfx
+[youtube]: https://youtube.com/ujjwalfx?sub_confirmation=1
 [instagram]: https://www.instagram.com/ujjwalfx
 [linkedin]: https://in.linkedin.com/in/ujjwalroy
 [webdevplaylist]: https://www.youtube.com/watch?v=UQy3NUPZ2YI&list=FLy1Wu_AHVFS5uBV6qSW580A
