@@ -90,8 +90,8 @@
 
 <a href="https://github.com/ujjwalfx2/github-readme-activity-graph"><img alt="Ujjwal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ujjwalfx2&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%"" /></a>
 
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+  <a href="https://github.com/ujjwalfx2/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ujjwalfx2&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 
 
