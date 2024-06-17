@@ -42,6 +42,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist1]
 [<img align="left" alt="Gatsby" width="26px" src="https://five.epicollect.net/images/ec5-community.jpg" />][webdevplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" />][webdevplaylist2]
 
 
 <br />
@@ -111,6 +112,7 @@
 [linkedin]: https://in.linkedin.com/in/ujjwalroy
 [webdevplaylist]: https://www.youtube.com/watch?v=UQy3NUPZ2YI&list=FLy1Wu_AHVFS5uBV6qSW580A
 [webdevplaylist1]: https://github.com/ujjwalfx2
+[webdevplaylist2]: https://actionplan.streamlit.app
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
