@@ -17,7 +17,7 @@
 
 ## I'm a Data Analyst & an autodidacts !!
 
-- 🔭 I just launched my first rShiny app with Google Sheet : [rShiny-App!][course]   
+- 🔭 I have launched my first rShiny app with Google Sheet : [rShiny-App!][course]   
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Visualize data in rShyni and PowerBI
